@@ -5,3 +5,13 @@
     font-family: 'poppins', sans-serif;
     box-sizing: border-box;
 }
+
+.hero
+{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.7), #3551b5), url(Images/pexels-quang-nguyen-vinh-2150347.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
